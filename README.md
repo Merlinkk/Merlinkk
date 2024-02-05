@@ -1,7 +1,7 @@
 # 💫 About Me:
 👋 Hello there! I'm Anshul, a passionate developer diving into the world of technology.
 <br>
-<div align='center'>
+<div align=center>
 ![cat](https://github.com/Merlinkk/Merlinkk/assets/80953200/3c77bf25-ede7-4eb1-822c-aee9aa802a22)
 </div>
   <br>

@@ -1,8 +1,10 @@
 # 💫 About Me:
 👋 Hello there! I'm Anshul, a passionate developer diving into the world of technology.
 <br>
+<div align='center'>
 ![cat](https://github.com/Merlinkk/Merlinkk/assets/80953200/3c77bf25-ede7-4eb1-822c-aee9aa802a22)
-<br>
+</div>
+  <br>
 Currently, my focus revolves around:<br><br>🔭 I’m currently working on: Crafting interactive and dynamic React applications to enhance user experiences. From creating sleek UI components to optimizing performance, I'm dedicated to delivering seamless web applications.<br><br>👯 I’m looking to collaborate on: Exciting projects that challenge and inspire. Whether it's collaborating on open-source initiatives or joining forces on innovative web applications, I'm eager to work with fellow developers and contribute to meaningful projects.<br><br>🌱 I’m currently learning: The ins and outs of full-stack development. I believe in continuous learning, and my journey involves mastering both frontend and backend technologies. Currently, I'm exploring the world of [insert technologies or frameworks you are learning].<br><br>💬 Ask me about: Anything related to React, JavaScript, or my experiences in transitioning to full-stack development. I'm always open to discussing new ideas, best practices, or sharing insights from my coding journey.<br><br>⚡ Fun fact: When not immersed in code, you might find me exploring the great outdoors or trying out a new recipe in the kitchen. Balancing the digital and analog worlds keeps me energized and creative.<br><br>Feel free to reach out, whether it's for collaboration, tech discussions, or just a friendly chat. Let's build something amazing together! 🚀
 
 
